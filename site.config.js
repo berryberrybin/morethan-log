@@ -6,25 +6,25 @@ const CONFIG = {
     role: "backend developer",
     bio: "BE 개발자 soobee 입니다",
     email: "a01056239778@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "",
+    github: "berryberrybin",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `soobee-log`,
+      href: "https://github.com/berryberrybin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "soobee-log",
+    description: "welcome to soobee-log!",
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
